@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://rahamanali.github.io/csb-7l6oj/static/css/main.e14ed481.chunk.css",
-    "main.js": "https://rahamanali.github.io/csb-7l6oj/static/js/main.ed39b91d.chunk.js",
-    "main.js.map": "https://rahamanali.github.io/csb-7l6oj/static/js/main.ed39b91d.chunk.js.map",
+    "main.js": "https://rahamanali.github.io/csb-7l6oj/static/js/main.957c1f9c.chunk.js",
+    "main.js.map": "https://rahamanali.github.io/csb-7l6oj/static/js/main.957c1f9c.chunk.js.map",
     "runtime-main.js": "https://rahamanali.github.io/csb-7l6oj/static/js/runtime-main.999ecacf.js",
     "runtime-main.js.map": "https://rahamanali.github.io/csb-7l6oj/static/js/runtime-main.999ecacf.js.map",
-    "static/js/2.22528d5d.chunk.js": "https://rahamanali.github.io/csb-7l6oj/static/js/2.22528d5d.chunk.js",
-    "static/js/2.22528d5d.chunk.js.map": "https://rahamanali.github.io/csb-7l6oj/static/js/2.22528d5d.chunk.js.map",
+    "static/js/2.bbb11e64.chunk.js": "https://rahamanali.github.io/csb-7l6oj/static/js/2.bbb11e64.chunk.js",
+    "static/js/2.bbb11e64.chunk.js.map": "https://rahamanali.github.io/csb-7l6oj/static/js/2.bbb11e64.chunk.js.map",
     "index.html": "https://rahamanali.github.io/csb-7l6oj/index.html",
     "static/css/main.e14ed481.chunk.css.map": "https://rahamanali.github.io/csb-7l6oj/static/css/main.e14ed481.chunk.css.map",
-    "static/js/2.22528d5d.chunk.js.LICENSE.txt": "https://rahamanali.github.io/csb-7l6oj/static/js/2.22528d5d.chunk.js.LICENSE.txt"
+    "static/js/2.bbb11e64.chunk.js.LICENSE.txt": "https://rahamanali.github.io/csb-7l6oj/static/js/2.bbb11e64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.999ecacf.js",
-    "static/js/2.22528d5d.chunk.js",
+    "static/js/2.bbb11e64.chunk.js",
     "static/css/main.e14ed481.chunk.css",
-    "static/js/main.ed39b91d.chunk.js"
+    "static/js/main.957c1f9c.chunk.js"
   ]
 }
